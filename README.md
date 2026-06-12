@@ -12,7 +12,7 @@ Progetto di Robotica per 737664 - Micromouse
 
 ## Modificare algoritmi e mappa
 1. Aprire il file ``Main.py``
-2. All'inizio del metodo main, modificare le entry per selezionare algoritmo e mappa desiderato
+2. All'inizio del metodo main, modificare le entry per selezionare algoritmo e mappa desiderato<br>
    I nomi da utilizzare sono contentuti nei rispettivi dizionari
 <img width="481" height="561" alt="immagine" src="https://github.com/user-attachments/assets/5646a484-416f-47ba-801f-cd954f3f5fb7" />
 
