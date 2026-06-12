@@ -9,6 +9,7 @@ Progetto di Robotica per 737664 - Micromouse
 5. Alla sezione "Run Command" inserire il comando per eseguire main python. Ad esempio: "python Main.py"
 6. in "Directory" inserire il path che punta alla cartella contente questa repository
 7. Salvare il profilo e selezionare uno dei maze presenti
+8. Premere RUN e attendere il mouse ragginga il goal. è possibile velocizzare l'esecuzione con lo slider vicino al pulsante run
 
 ## Modificare algoritmi e mappa
 1. Aprire il file ``Main.py``
